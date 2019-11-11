@@ -25,7 +25,7 @@ git clone https://github.com/CodingParkFunSeries/ProductivityTracker.git
 ```
 git checkout -b users_ajay109458_createFeatureSuggestion
 ```
-3. Now there is a FeatureSuggestion folder create an md file in format `<your name>.md` ( learn to write md file) about possible features in the resume builder. 
+3. Now there is a FeatureSuggestion folder create an md file in format `<your name>.md` ( learn to write md file) about possible features in the Productivity Tracker. 
 4. Commit and push you changes and raise a PR.
 ```
 git add . 
